@@ -1,2 +1,2 @@
 # graphics
- README TESRANDOM
+ README TESR
